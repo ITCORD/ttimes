@@ -1,3 +1,13 @@
+[index]
+title = "T Times ─ 뉴스"
+url = "http://www.ttimes.co.kr/index.html"
+entrySelector = "ul.list_p1 li.bundle"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.thum"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
+
 [news]
 title = "T Times ─ 뉴스"
 url = "http://www.ttimes.co.kr/index.html?menu=news"
@@ -21,6 +31,26 @@ waitUntil = "networkidle"
 [culture]
 title = "T Times ─ 컬쳐"
 url = "http://www.ttimes.co.kr/index.html?menu=culture"
+entrySelector = "ul.list_p1 li.bundle"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.thum"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
+
+[pick]
+title = "T Times ─ T Times Pick"
+url = "http://www.ttimes.co.kr/index.html?menu=pick"
+entrySelector = "ul.list_p1 li.bundle"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.thum"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
+
+[rank]
+title = "T Times ─ 랭킹뉴스"
+url = "http://www.ttimes.co.kr/rank.html"
 entrySelector = "ul.list_p1 li.bundle"
 titleSelector = "strong.tit"
 linkSelector = "a"
