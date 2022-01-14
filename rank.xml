@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>T Times ─ 랭킹뉴스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Jan 2022 15:06:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커피!  물대신, 물처럼 마셔도 되나?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2015102314167722908</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2015102314167722908</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="커피!  물대신, 물처럼 마셔도 되나?" src="http://img.ttimes.co.kr/img/201510/2015102314167722908_66575_0.jpg/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/201510/2015102314167722908_66575_0.jpg/dims/optimize/" length="0" type="image/jpg/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA[2주간 설탕 끊었더니 생긴 놀라운 변화]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2015090216217782414</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2015090216217782414</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="2주간 설탕 끊었더니 생긴 놀라운 변화" src="http://img.ttimes.co.kr/img/201509/2015090216217782414_57773_0.jpg/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/201509/2015090216217782414_57773_0.jpg/dims/optimize/" length="0" type="image/jpg/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA[“외로웠다”에서 시작해 “협조하겠다”로 끝난 박 대통령 사과]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2016110417277761552</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2016110417277761552</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/201611/2016110417277761552_77282.jpg" alt="“외로웠다”에서 시작해 “협조하겠다”로 끝난 박 대통령 사과" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[“우리 삶은 어떻게 질문하느냐에 달렸다”]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2017041714327762671</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2017041714327762671</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/201704/2017041714327762671_23198.png" alt="“우리 삶은 어떻게 질문하느냐에 달렸다”" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA["인간은 말이 아니다. 당근만 있으면 된다" 미라이공업 창업주 이야기]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2015070214577737730</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2015070214577737730</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/201507/2015070214577737730_65891_0.jpg" alt="&quot;인간은 말이 아니다. 당근만 있으면 된다&quot; 미라이공업 창업주 이야기" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[이젠 피붙이만 남았다]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2017033114217717170</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2017033114217717170</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/201703/2017033114217717170_18188.jpg" alt="이젠 피붙이만 남았다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        </item>
+        <item>
+            <title><![CDATA[메모에 대한 6가지 나의 기술]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2015111915047727876</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2015111915047727876</guid>
+            <pubDate>Fri, 14 Jan 2022 15:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/201511/2015111915047727876_69559_0.jpg" alt="메모에 대한 6가지 나의 기술" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+        </item>
+    </channel>
+</rss>
