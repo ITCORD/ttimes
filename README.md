@@ -1,5 +1,5 @@
 # T Times
-https://ITCORD.github.io/ttimes/all.xml
+https://itcord.github.io/ttimes/all.xml
 - 홈: https://itcord.github.io/ttimes/index.xml
 - 뉴스: https://itcord.github.io/ttimes/news.xml
 - 비즈니스: https://itcord.github.io/ttimes/business.xml
