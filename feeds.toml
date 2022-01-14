@@ -57,3 +57,13 @@ linkSelector = "a"
 contentSelector = "span.thum"
 imageSelector = "span.thum img"
 waitUntil = "networkidle"
+
+[rank_top]
+title = "T Times ─ 랭킹뉴스"
+url = "http://www.ttimes.co.kr/rank.html"
+entrySelector = "div.slide div ul.slide_list li"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "a span.num"
+imageSelector = "span.thum img.lazySlide"
+waitUntil = "networkidle"
