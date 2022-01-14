@@ -1,5 +1,5 @@
 [index]
-title = "T Times ─ 뉴스"
+title = "T Times"
 url = "http://www.ttimes.co.kr/index.html"
 entrySelector = "ul.list_p1 li.bundle"
 titleSelector = "strong.tit"
