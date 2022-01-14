@@ -1,0 +1,19 @@
+[news]
+title = "T Times ─ 뉴스"
+url = "http://www.ttimes.co.kr/index.html?menu=news"
+entrySelector = "ul.list_p1 li.bundle"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.thum"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
+
+[business]
+title = "T Times ─ 비즈니스"
+url = "http://www.ttimes.co.kr/index.html?menu=business"
+entrySelector = "ul.list_p1 li.bundle"
+titleSelector = "strong.tit"
+linkSelector = "a"
+contentSelector = "span.thum"
+imageSelector = "span.thum img"
+waitUntil = "networkidle"
