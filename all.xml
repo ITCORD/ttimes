@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 10:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 11:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022011718187744078</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011718187744078</guid>
-            <pubDate>Mon, 17 Jan 2022 10:20:43 GMT</pubDate>
+            <pubDate>Mon, 17 Jan 2022 10:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다" src="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
