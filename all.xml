@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT 발행하고 연봉은 암호화폐로 달라는 선수들 (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022011418547741136</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022011418547741136</guid>
+            <pubDate>Wed, 19 Jan 2022 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="NFT 발행하고 연봉은 암호화폐로 달라는 선수들" src="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털에서 탄생하고 존재하는 새로운 명품 소비재 출현한다 (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022011915117729426</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022011915117729426</guid>
+            <pubDate>Wed, 19 Jan 2022 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="디지털에서 탄생하고 존재하는 새로운 명품 소비재 출현한다" src="http://img.ttimes.co.kr/img/202201/2022011915117729426_39458.jpg/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011915117729426_39458.jpg/dims/optimize/" length="0" type="image/jpg/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’ (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022011817467745631</link>
@@ -20,16 +36,16 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022011817447780415</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011817447780415</guid>
             <pubDate>Tue, 18 Jan 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="뉴스만으론 어렵다. 그래서 엔터와 베팅?" src="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png" alt="뉴스만으론 어렵다. 그래서 엔터와 베팅?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다 (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022011718187744078</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011718187744078</guid>
             <pubDate>Mon, 17 Jan 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다" src="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png" alt="말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[회계도 모르고 일하고 계시지 않나요? (T Times)]]></title>
@@ -69,22 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022011218137745980</guid>
             <pubDate>Fri, 14 Jan 2022 15:00:45 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011218137745980_15622.png" alt="개인도 ETF처럼 투자할 수 있는 기업검색의 비밀" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA['탈중앙화된 디즈니' 만들고 있는 BAYC (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011112377765682</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011112377765682</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011112377765682_10113.png" alt="'탈중앙화된 디즈니' 만들고 있는 BAYC" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[디센트럴랜드 사례로 보는 토큰이코노미, 토큰민주주의 (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011118047753337</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011118047753337</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011118047753337_55256.png" alt="디센트럴랜드 사례로 보는 토큰이코노미, 토큰민주주의" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[NFT 발행하고 연봉은 암호화폐로 달라는 선수들 (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022011418547741136</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022011418547741136</guid>
+            <pubDate>Wed, 19 Jan 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="NFT 발행하고 연봉은 암호화폐로 달라는 선수들" src="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털에서 탄생하고 존재하는 새로운 명품 소비재 출현한다 (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022011915117729426</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022011915117729426</guid>
+            <pubDate>Wed, 19 Jan 2022 09:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="디지털에서 탄생하고 존재하는 새로운 명품 소비재 출현한다" src="http://img.ttimes.co.kr/img/202201/2022011915117729426_39458.jpg/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011915117729426_39458.jpg/dims/optimize/" length="0" type="image/jpg/dims/optimize/"/>
+        </item>
+        <item>
             <title><![CDATA[쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’ (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022011817467745631</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011817467745631</guid>
@@ -180,16 +196,16 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022011817447780415</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011817447780415</guid>
             <pubDate>Tue, 18 Jan 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="뉴스만으론 어렵다. 그래서 엔터와 베팅?" src="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011817447780415_48194.png" alt="뉴스만으론 어렵다. 그래서 엔터와 베팅?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022011718187744078</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011718187744078</guid>
             <pubDate>Mon, 17 Jan 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다" src="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011718187744078_86345.png" alt="말 좀 한다는 사람들의 앱, 클럽하우스가 안 보인다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[회계도 모르고 일하고 계시지 않나요? (T Times ─ 비즈니스)]]></title>
@@ -232,20 +248,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA['탈중앙화된 디즈니' 만들고 있는 BAYC (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011112377765682</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011112377765682</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011112377765682_10113.png" alt="'탈중앙화된 디즈니' 만들고 있는 BAYC" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[디센트럴랜드 사례로 보는 토큰이코노미, 토큰민주주의 (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011118047753337</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011118047753337</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011118047753337_55256.png" alt="디센트럴랜드 사례로 보는 토큰이코노미, 토큰민주주의" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            <title><![CDATA[NFT 발행하고 연봉은 암호화폐로 달라는 선수들 (T Times ─ 컬쳐)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022011418547741136</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022011418547741136</guid>
+            <pubDate>Wed, 19 Jan 2022 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="NFT 발행하고 연봉은 암호화폐로 달라는 선수들" src="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[아마존도 못 따라가 헉헉대는 신 배달전쟁 (T Times ─ 컬쳐)]]></title>
@@ -268,8 +276,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2021121717457753101</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2021121717457753101</guid>
             <pubDate>Fri, 14 Jan 2022 15:00:39 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="직원 900명을 줌으로 해고한 회사의 최후" src="http://img.ttimes.co.kr/img/202112/2021121717457753101_85038.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202112/2021121717457753101_85038.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021121717457753101_85038.png" alt="직원 900명을 줌으로 해고한 회사의 최후" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[코로나 덕분에 게임회사, 콘텐츠회사가 됐다. (T Times ─ 컬쳐)]]></title>
@@ -317,14 +325,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2021112417407798863</guid>
             <pubDate>Fri, 14 Jan 2022 15:00:50 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202111/2021112417407798863_37186.png" alt="온라인 강의플랫폼 '유데미(Udemy)'는 어떻게 4.6조원 회사가 됐나" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[착실하게 살면 게임 속 내 캐릭터도 성장하는 게임 (T Times ─ 컬쳐)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2021111518077729349</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2021111518077729349</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202111/2021111518077729349_82867.png" alt="착실하게 살면 게임 속 내 캐릭터도 성장하는 게임" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
