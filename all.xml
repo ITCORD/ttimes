@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 10:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 11:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나? (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022012618057745021</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012618057745021</guid>
-            <pubDate>Wed, 26 Jan 2022 10:18:57 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?" src="http://img.ttimes.co.kr/img/202201/2022012618057745021_26683.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202201/2022012618057745021_26683.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022012618057745021</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012618057745021</guid>
-            <pubDate>Wed, 26 Jan 2022 10:19:04 GMT</pubDate>
+            <pubDate>Wed, 26 Jan 2022 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?" src="http://img.ttimes.co.kr/img/202201/2022012618057745021_26683.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202201/2022012618057745021_26683.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
