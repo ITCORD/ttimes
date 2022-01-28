@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식 (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022012814297739475</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022012814297739475</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식" src="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[기업이 NFT로 팬 커뮤니티 만드는 방법은? (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022012717587735574</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022012616397756758</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012616397756758</guid>
             <pubDate>Wed, 26 Jan 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부" src="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png" alt="상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[클레이튼 만든 한재선 대표가 NFT에 올인하는 이유 (T Times)]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022011915117729426</guid>
             <pubDate>Wed, 19 Jan 2022 09:17:25 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011915117729426_39458.jpg" alt="디지털에서 탄생하고 존재하는 새로운 명품 소비재 출현한다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’ (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011817467745631</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011817467745631</guid>
-            <pubDate>Tue, 18 Jan 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011817467745631_30242.png" alt="쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식 (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022012814297739475</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022012814297739475</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식" src="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
             <title><![CDATA[기업이 NFT로 팬 커뮤니티 만드는 방법은? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022012717587735574</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012717587735574</guid>
@@ -188,8 +196,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022012616397756758</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012616397756758</guid>
             <pubDate>Wed, 26 Jan 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부" src="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png" alt="상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[클레이튼 만든 한재선 대표가 NFT에 올인하는 이유 (T Times ─ 비즈니스)]]></title>
@@ -240,12 +248,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’ (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011817467745631</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011817467745631</guid>
-            <pubDate>Tue, 18 Jan 2022 10:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011817467745631_30242.png" alt="쓰임새는 상상력에 달렸다는 ‘노션’, 영어 스킬 올려주는 ‘그래마리’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            <title><![CDATA[BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식 (T Times ─ 컬쳐)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022012814297739475</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022012814297739475</guid>
+            <pubDate>Fri, 28 Jan 2022 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="BAYC 커뮤니티가 NFT 가치를 끌어올리는 방식" src="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012814297739475_81459.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[카이스트 학생이 만들어 25개국이 쓰는 ‘교육업계 카톡’ (T Times ─ 컬쳐)]]></title>
@@ -268,8 +276,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022010318087745552</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022010318087745552</guid>
             <pubDate>Fri, 14 Jan 2022 15:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="아마존도 못 따라가 헉헉대는 신 배달전쟁" src="http://img.ttimes.co.kr/img/202201/2022010318087745552_12275.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022010318087745552_12275.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022010318087745552_12275.png" alt="아마존도 못 따라가 헉헉대는 신 배달전쟁" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[나이키가 로블록스보다 더 나은 메타버스 주식이다? (T Times ─ 컬쳐)]]></title>
@@ -317,14 +325,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2021120718187773866</guid>
             <pubDate>Fri, 14 Jan 2022 15:00:50 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021120718187773866_55479.png" alt="지구를 주주로 대하는 CEO" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[펠로톤의 인기는 코로나 시대 일장춘몽이었나? (T Times ─ 컬쳐)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2021120218417758860</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2021120218417758860</guid>
-            <pubDate>Fri, 14 Jan 2022 15:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021120218417758860_62522.png" alt="펠로톤의 인기는 코로나 시대 일장춘몽이었나?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
