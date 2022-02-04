@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 10:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 11:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드 (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020416377779769</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020416377779769</guid>
-            <pubDate>Fri, 04 Feb 2022 10:16:32 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 10:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드" src="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020416377779769</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020416377779769</guid>
-            <pubDate>Fri, 04 Feb 2022 10:16:39 GMT</pubDate>
+            <pubDate>Fri, 04 Feb 2022 10:16:24 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드" src="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
