@@ -4,9 +4,25 @@
         <title>T Times</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 09:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 10:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022020718077748547</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022020718077748547</guid>
+            <pubDate>Mon, 07 Feb 2022 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까?" src="http://img.ttimes.co.kr/img/202202/2022020718077748547_41430.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020718077748547_41430.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT와 소셜미디어는 왜 맞아떨어지는 조합일까?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022020711387790879</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022020711387790879</guid>
+            <pubDate>Mon, 07 Feb 2022 10:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="NFT와 소셜미디어는 왜 맞아떨어지는 조합일까?" src="http://img.ttimes.co.kr/img/202202/2022020711387790879_79877.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020711387790879_79877.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[‘찐’ 문과생들이 IT회사 가면 하는 일]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020318317788721</link>
@@ -20,16 +36,16 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022020416377779769</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020416377779769</guid>
             <pubDate>Fri, 04 Feb 2022 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드" src="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png" alt="게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[크리에이터가 가장 파워있는 시대 온다. 취향을 가져라~]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020414377766945</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020414377766945</guid>
             <pubDate>Fri, 04 Feb 2022 08:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="크리에이터가 가장 파워있는 시대 온다. 취향을 가져라~" src="http://img.ttimes.co.kr/img/202202/2022020414377766945_41893.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020414377766945_41893.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020414377766945_41893.png" alt="크리에이터가 가장 파워있는 시대 온다. 취향을 가져라~" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[AI 카메라로 닭을 딱 맛 좋은 무게까지만 키우고~]]></title>
@@ -69,22 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022012717587735574</guid>
             <pubDate>Thu, 27 Jan 2022 09:17:31 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012717587735574_27406.png" alt="기업이 NFT로 팬 커뮤니티 만드는 방법은?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022012618057745021</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022012618057745021</guid>
-            <pubDate>Wed, 26 Jan 2022 10:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012618057745021_85093.png" alt="블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022012616397756758</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022012616397756758</guid>
-            <pubDate>Wed, 26 Jan 2022 09:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012616397756758_82524.png" alt="상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
