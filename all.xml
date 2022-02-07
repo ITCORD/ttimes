@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:14:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020718077748547</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020718077748547</guid>
-            <pubDate>Mon, 07 Feb 2022 10:18:31 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 10:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까?" src="http://img.ttimes.co.kr/img/202202/2022020718077748547_41430.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020718077748547_41430.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA[NFT와 소셜미디어는 왜 맞아떨어지는 조합일까? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020711387790879</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020711387790879</guid>
-            <pubDate>Mon, 07 Feb 2022 10:18:31 GMT</pubDate>
+            <pubDate>Mon, 07 Feb 2022 10:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="NFT와 소셜미디어는 왜 맞아떨어지는 조합일까?" src="http://img.ttimes.co.kr/img/202202/2022020711387790879_79877.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020711387790879_79877.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
