@@ -4,9 +4,17 @@
         <title>T Times ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 09:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코딩 몰라도 IT회사 취업하는 4가지 팁]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022020817317714790</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022020817317714790</guid>
+            <pubDate>Tue, 08 Feb 2022 10:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="코딩 몰라도 IT회사 취업하는 4가지 팁" src="http://img.ttimes.co.kr/img/202202/2022020817317714790_84830.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020817317714790_84830.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020416377779769</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022011017487762946</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022011017487762946</guid>
             <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="너무 일찍 쓰였던 블랙베리 부고기사" src="http://img.ttimes.co.kr/img/202201/2022011017487762946_43866.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022011017487762946_43866.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011017487762946_43866.png" alt="너무 일찍 쓰였던 블랙베리 부고기사" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[테라는 웹3와 현실의 경제를 어떻게 통합하려 하나?]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2021122214017790325</guid>
             <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021122214017790325_65987.png" alt="P2E도 결국은 게임. 재미있어야 한다." src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[미국인들이 사표내고 떠나는 이유]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2021122015247742143</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2021122015247742143</guid>
-            <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021122015247742143_87602.png" alt="미국인들이 사표내고 떠나는 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
