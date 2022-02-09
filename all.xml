@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 06:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 07:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[기자까지 뽑아 '포털 사이트' 만든 넷플릭스 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020812087738913</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020812087738913</guid>
-            <pubDate>Wed, 09 Feb 2022 06:20:52 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 06:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="기자까지 뽑아 '포털 사이트' 만든 넷플릭스" src="http://img.ttimes.co.kr/img/202202/2022020812087738913_56674.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020812087738913_56674.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -251,7 +251,7 @@
             <title><![CDATA[기자까지 뽑아 '포털 사이트' 만든 넷플릭스 (T Times ─ 컬쳐)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020812087738913</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020812087738913</guid>
-            <pubDate>Wed, 09 Feb 2022 06:20:59 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 06:20:38 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="기자까지 뽑아 '포털 사이트' 만든 넷플릭스" src="http://img.ttimes.co.kr/img/202202/2022020812087738913_56674.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022020812087738913_56674.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
