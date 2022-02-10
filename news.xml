@@ -4,9 +4,17 @@
         <title>T Times ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 08:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 09:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앱으로 질병 치료하는 ‘디지털치료제’ 투자하는 소뱅]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022021017397767977</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022021017397767977</guid>
+            <pubDate>Thu, 10 Feb 2022 09:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="앱으로 질병 치료하는 ‘디지털치료제’ 투자하는 소뱅" src="http://img.ttimes.co.kr/img/202202/2022021017397767977_83418.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021017397767977_83418.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[코딩 몰라도 IT회사 취업하는 4가지 팁]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020817317714790</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022012618057745021</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022012618057745021</guid>
             <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?" src="http://img.ttimes.co.kr/img/202201/2022012618057745021_85093.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202201/2022012618057745021_85093.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012618057745021_85093.png" alt="블록체인 진영은 왜 와이오밍에 땅을 사기 시작했나?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[너무 일찍 쓰였던 블랙베리 부고기사]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2021122413157776658</guid>
             <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021122413157776658_66657.png" alt="나이키가 로블록스보다 더 나은 메타버스 주식이다?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[P2E도 결국은 게임. 재미있어야 한다.]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2021122214017790325</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2021122214017790325</guid>
-            <pubDate>Mon, 31 Jan 2022 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202112/2021122214017790325_65987.png" alt="P2E도 결국은 게임. 재미있어야 한다." src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
