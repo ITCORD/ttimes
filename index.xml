@@ -4,9 +4,25 @@
         <title>T Times</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[브랜드마다 '시그니처 향'이 있어야 하는 이유]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022021018257738933</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022021018257738933</guid>
+            <pubDate>Fri, 11 Feb 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="브랜드마다 '시그니처 향'이 있어야 하는 이유" src="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
+            <title><![CDATA['다오(DAO)’는 후진적 정치와 기업을 어떻게 바꿀 수 있을까?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022021118227726174</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022021118227726174</guid>
+            <pubDate>Fri, 11 Feb 2022 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="'다오(DAO)’는 후진적 정치와 기업을 어떻게 바꿀 수 있을까?" src="http://img.ttimes.co.kr/img/202202/2022021118227726174_70731.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021118227726174_70731.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[앱으로 질병 치료하는 ‘디지털치료제’ 투자하는 소뱅]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021017397767977</link>
@@ -20,16 +36,16 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022021015037789415</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021015037789415</guid>
             <pubDate>Thu, 10 Feb 2022 08:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="PC 본체를 없애버린 ‘실리콘밸리 한국인들의 대부’" src="http://img.ttimes.co.kr/img/202202/2022021015037789415_13088.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021015037789415_13088.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021015037789415_13088.png" alt="PC 본체를 없애버린 ‘실리콘밸리 한국인들의 대부’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[아마존은 백화점 열 만반의 준비를 갖췄다]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022020918207765734</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022020918207765734</guid>
             <pubDate>Wed, 09 Feb 2022 10:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="아마존은 백화점 열 만반의 준비를 갖췄다" src="http://img.ttimes.co.kr/img/202202/2022020918207765734_25235.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022020918207765734_25235.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020918207765734_25235.png" alt="아마존은 백화점 열 만반의 준비를 갖췄다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[기자까지 뽑아 '포털 사이트' 만든 넷플릭스]]></title>
@@ -69,22 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022020318317788721</guid>
             <pubDate>Sun, 06 Feb 2022 01:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020318317788721_87881.png" alt="‘찐’ 문과생들이 IT회사 가면 하는 일" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022020416377779769</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022020416377779769</guid>
-            <pubDate>Fri, 04 Feb 2022 10:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020416377779769_80621.png" alt="게임, 클라우드, 메타버스까지! 아마존 따돌리기 위한 MS의 카드" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[크리에이터가 가장 파워있는 시대 온다. 취향을 가져라~]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022020414377766945</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022020414377766945</guid>
-            <pubDate>Fri, 04 Feb 2022 08:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020414377766945_41893.png" alt="크리에이터가 가장 파워있는 시대 온다. 취향을 가져라~" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
