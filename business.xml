@@ -4,9 +4,17 @@
         <title>T Times ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NFT는 디즈니는 절대 못하는 ‘IP의 오픈소스화’]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022021515487788719</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022021515487788719</guid>
+            <pubDate>Tue, 15 Feb 2022 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="NFT는 디즈니는 절대 못하는 ‘IP의 오픈소스화’" src="http://img.ttimes.co.kr/img/202202/2022021515487788719_28273.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021515487788719_28273.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA["ESG 주식이 닷컴 버블 시대의 기술주 같다“]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021110347772946</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022021018257738933</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021018257738933</guid>
             <pubDate>Fri, 11 Feb 2022 10:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="브랜드마다 '시그니처 향'이 있어야 하는 이유" src="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png" alt="브랜드마다 '시그니처 향'이 있어야 하는 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA['다오(DAO)’는 후진적 정치와 기업을 어떻게 바꿀 수 있을까?]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022020817317714790</guid>
             <pubDate>Tue, 08 Feb 2022 10:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020817317714790_84830.png" alt="코딩 몰라도 IT회사 취업하는 4가지 팁" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까?]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022020718077748547</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022020718077748547</guid>
-            <pubDate>Mon, 07 Feb 2022 10:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020718077748547_76065.png" alt="웹 3.0 세상은 무엇으로 구성되고 어떻게 작동할까?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
