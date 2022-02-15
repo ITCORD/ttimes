@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 11:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[광고는 돈 쓰려고 할 때 붙이는 게 가장 강력하다. (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021118427738213</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021118427738213</guid>
-            <pubDate>Tue, 15 Feb 2022 10:18:55 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="광고는 돈 쓰려고 할 때 붙이는 게 가장 강력하다." src="http://img.ttimes.co.kr/img/202202/2022021118427738213_89204.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022021118427738213_89204.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[광고는 돈 쓰려고 할 때 붙이는 게 가장 강력하다. (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021118427738213</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021118427738213</guid>
-            <pubDate>Tue, 15 Feb 2022 10:19:02 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 10:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="광고는 돈 쓰려고 할 때 붙이는 게 가장 강력하다." src="http://img.ttimes.co.kr/img/202202/2022021118427738213_89204.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022021118427738213_89204.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
