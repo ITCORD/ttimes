@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 10:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 11:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[실리콘밸리 대부가 본 ‘실리콘밸리의 MZ세대 한국인’ (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021618247738527</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021618247738527</guid>
-            <pubDate>Wed, 16 Feb 2022 10:19:58 GMT</pubDate>
+            <pubDate>Wed, 16 Feb 2022 10:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="실리콘밸리 대부가 본 ‘실리콘밸리의 MZ세대 한국인’" src="http://img.ttimes.co.kr/img/202202/2022021618247738527_89169.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022021618247738527_89169.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
