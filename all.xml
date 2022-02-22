@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 08:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 09:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저도 무서워요. 말도 안 되는 이자율을 보면~ (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022022216267789724</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022022216267789724</guid>
+            <pubDate>Tue, 22 Feb 2022 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="저도 무서워요. 말도 안 되는 이자율을 보면~" src="http://img.ttimes.co.kr/img/202202/2022022216267789724_24203.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022216267789724_24203.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[손정의 회장과 ARM만 아쉽게 된 이유 (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022117167730104</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022021817317759906</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021817317759906</guid>
             <pubDate>Fri, 18 Feb 2022 09:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="네이버의 B2B2C, 카카오의 B2C2C 메타버스" src="http://img.ttimes.co.kr/img/202202/2022021817317759906_62662.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021817317759906_62662.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021817317759906_62662.png" alt="네이버의 B2B2C, 카카오의 B2C2C 메타버스" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA['월 10달러, 월 30편 관람' 패착을 무비패스는 어떻게 해결할까? (T Times)]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022021110347772946</guid>
             <pubDate>Mon, 14 Feb 2022 10:18:32 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021110347772946_27625.png" alt="&quot;ESG 주식이 닷컴 버블 시대의 기술주 같다“" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[LG디스플레이가 19~20년 2년 연속 적자였던 이유 (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022021418167791268</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022021418167791268</guid>
-            <pubDate>Mon, 14 Feb 2022 10:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021418167791268_81498.png" alt="LG디스플레이가 19~20년 2년 연속 적자였던 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[저도 무서워요. 말도 안 되는 이자율을 보면~ (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022022216267789724</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022022216267789724</guid>
+            <pubDate>Tue, 22 Feb 2022 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="저도 무서워요. 말도 안 되는 이자율을 보면~" src="http://img.ttimes.co.kr/img/202202/2022022216267789724_24203.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022216267789724_24203.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
             <title><![CDATA[리투아니아 유니콘은 어떻게 이커머스 판을 뒤집었나 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022021817447724203</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021817447724203</guid>
@@ -188,8 +196,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022021713177768361</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021713177768361</guid>
             <pubDate>Thu, 17 Feb 2022 09:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="승차공유의 장점만 결합한 ‘에이비스’와 ‘롯데렌탈’의 성공비결" src="http://img.ttimes.co.kr/img/202202/2022021713177768361_29063.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021713177768361_29063.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021713177768361_29063.png" alt="승차공유의 장점만 결합한 ‘에이비스’와 ‘롯데렌탈’의 성공비결" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[실리콘밸리 대부가 본 ‘실리콘밸리의 MZ세대 한국인’ (T Times ─ 비즈니스)]]></title>
@@ -237,14 +245,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022021018257738933</guid>
             <pubDate>Fri, 11 Feb 2022 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021018257738933_81594.png" alt="브랜드마다 '시그니처 향'이 있어야 하는 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA['다오(DAO)’는 후진적 정치와 기업을 어떻게 바꿀 수 있을까? (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022021118227726174</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022021118227726174</guid>
-            <pubDate>Fri, 11 Feb 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021118227726174_70731.png" alt="'다오(DAO)’는 후진적 정치와 기업을 어떻게 바꿀 수 있을까?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
