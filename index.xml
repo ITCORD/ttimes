@@ -4,9 +4,17 @@
         <title>T Times</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 10:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가상을 현실로 불러오겠다는 디즈니의 전략]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022022114057750404</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022022114057750404</guid>
+            <pubDate>Tue, 22 Feb 2022 10:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[저도 무서워요. 말도 안 되는 이자율을 보면~]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022216267789724</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022021817447724203</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022021817447724203</guid>
             <pubDate>Fri, 18 Feb 2022 09:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="리투아니아 유니콘은 어떻게 이커머스 판을 뒤집었나" src="http://img.ttimes.co.kr/img/202202/2022021817447724203_88960.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022021817447724203_88960.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021817447724203_88960.png" alt="리투아니아 유니콘은 어떻게 이커머스 판을 뒤집었나" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[네이버의 B2B2C, 카카오의 B2C2C 메타버스]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022021515487788719</guid>
             <pubDate>Tue, 15 Feb 2022 09:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021515487788719_28273.png" alt="NFT는 디즈니는 절대 못하는 ‘IP의 오픈소스화’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA["ESG 주식이 닷컴 버블 시대의 기술주 같다“]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022021110347772946</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022021110347772946</guid>
-            <pubDate>Mon, 14 Feb 2022 10:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021110347772946_27625.png" alt="&quot;ESG 주식이 닷컴 버블 시대의 기술주 같다“" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
