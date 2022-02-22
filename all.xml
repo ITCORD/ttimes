@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 10:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 11:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[가상을 현실로 불러오겠다는 디즈니의 전략 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022114057750404</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022114057750404</guid>
-            <pubDate>Tue, 22 Feb 2022 10:20:51 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -251,7 +251,7 @@
             <title><![CDATA[가상을 현실로 불러오겠다는 디즈니의 전략 (T Times ─ 컬쳐)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022114057750404</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022114057750404</guid>
-            <pubDate>Tue, 22 Feb 2022 10:21:00 GMT</pubDate>
+            <pubDate>Tue, 22 Feb 2022 10:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
