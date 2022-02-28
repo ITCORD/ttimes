@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 10:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 11:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[Z세대, 숏폼만으론 돈이 안 되겠더라~ (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022514457721137</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022514457721137</guid>
-            <pubDate>Mon, 28 Feb 2022 10:20:06 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 10:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="Z세대, 숏폼만으론 돈이 안 되겠더라~" src="http://img.ttimes.co.kr/img/202202/2022022514457721137_14394.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022022514457721137_14394.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[Z세대, 숏폼만으론 돈이 안 되겠더라~ (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022022514457721137</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022514457721137</guid>
-            <pubDate>Mon, 28 Feb 2022 10:20:16 GMT</pubDate>
+            <pubDate>Mon, 28 Feb 2022 10:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="Z세대, 숏폼만으론 돈이 안 되겠더라~" src="http://img.ttimes.co.kr/img/202202/2022022514457721137_14394.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202202/2022022514457721137_14394.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
