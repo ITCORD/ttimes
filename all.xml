@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 10:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[네이버와 카카오는 무형자산을 어떻게 반영하나? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022030316327710462</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030316327710462</guid>
-            <pubDate>Thu, 03 Mar 2022 09:18:58 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2022 09:18:40 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="네이버와 카카오는 무형자산을 어떻게 반영하나?" src="http://img.ttimes.co.kr/img/202203/2022030316327710462_18101.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022030316327710462_18101.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
