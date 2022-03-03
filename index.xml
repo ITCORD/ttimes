@@ -4,9 +4,17 @@
         <title>T Times</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버와 카카오는 무형자산을 어떻게 반영하나?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022030316327710462</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022030316327710462</guid>
+            <pubDate>Thu, 03 Mar 2022 09:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="네이버와 카카오는 무형자산을 어떻게 반영하나?" src="http://img.ttimes.co.kr/img/202203/2022030316327710462_18101.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022030316327710462_18101.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[평범한 개인도 강의로 먹고살 수 있다(f.수수료 안 떼어주고)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022030216487791048</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022022817087790403</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022817087790403</guid>
             <pubDate>Mon, 28 Feb 2022 09:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="레이어1, 레이어2, 사이드체인, 인터체인, 롤업 총정리" src="http://img.ttimes.co.kr/img/202202/2022022817087790403_25891.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022817087790403_25891.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022817087790403_25891.png" alt="레이어1, 레이어2, 사이드체인, 인터체인, 롤업 총정리" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[청소, 수리, 마사지, 미용 등 출장모델을 혁신한 비결]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022022316007768018</guid>
             <pubDate>Wed, 23 Feb 2022 09:16:09 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022316007768018_62394.png" alt="복지는 직원에 대한 서비스라는 남세동 대표" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[가상을 현실로 불러오겠다는 디즈니의 전략]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022022114057750404</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022022114057750404</guid>
-            <pubDate>Tue, 22 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
