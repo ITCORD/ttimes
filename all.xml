@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[이 회사 창업자가 스티브 잡스를 화나게 만든 이유 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022030318047715571</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030318047715571</guid>
-            <pubDate>Fri, 04 Mar 2022 10:19:55 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2022 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="이 회사 창업자가 스티브 잡스를 화나게 만든 이유" src="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
