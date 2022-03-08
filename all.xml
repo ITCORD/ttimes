@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[메타의 메타버스는 과장됐다? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022030816517739721</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030816517739721</guid>
-            <pubDate>Tue, 08 Mar 2022 08:23:00 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2022 08:22:42 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="메타의 메타버스는 과장됐다?" src="http://img.ttimes.co.kr/img/202203/2022030816517739721_30344.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022030816517739721_30344.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
