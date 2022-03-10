@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 08:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 09:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까? (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022031017207755025</guid>
+            <pubDate>Thu, 10 Mar 2022 09:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[메타의 메타버스는 과장됐다? (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022030816517739721</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022030318047715571</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030318047715571</guid>
             <pubDate>Fri, 04 Mar 2022 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="이 회사 창업자가 스티브 잡스를 화나게 만든 이유" src="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png" alt="이 회사 창업자가 스티브 잡스를 화나게 만든 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[네이버와 카카오는 무형자산을 어떻게 반영하나? (T Times)]]></title>
@@ -80,12 +88,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[암호화폐 관심 있다면 무조건 알아야 할 ‘스테이블 코인’ (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022022417427778596</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022022417427778596</guid>
-            <pubDate>Thu, 24 Feb 2022 10:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022417427778596_89387.png" alt="암호화폐 관심 있다면 무조건 알아야 할 ‘스테이블 코인’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            <title><![CDATA[왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까? (T Times ─ 뉴스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022031017207755025</guid>
+            <pubDate>Thu, 10 Mar 2022 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[나도 강의로 먹고 살 수 있다! 하루 4천만원 가능한 비결 (T Times ─ 뉴스)]]></title>
@@ -108,8 +116,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022022417057710175</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022417057710175</guid>
             <pubDate>Fri, 25 Feb 2022 10:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="청소, 수리, 마사지, 미용 등 출장모델을 혁신한 비결" src="http://img.ttimes.co.kr/img/202202/2022022417057710175_41810.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022417057710175_41810.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022417057710175_41810.png" alt="청소, 수리, 마사지, 미용 등 출장모델을 혁신한 비결" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[플레이보이가 NFT로 만들려는 커뮤니티는? (T Times ─ 뉴스)]]></title>
@@ -160,12 +168,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[코딩 몰라도 IT회사 취업하는 4가지 팁 (T Times ─ 뉴스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022020817317714790</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022020817317714790</guid>
-            <pubDate>Tue, 08 Feb 2022 10:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020817317714790_84830.png" alt="코딩 몰라도 IT회사 취업하는 4가지 팁" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            <title><![CDATA[왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까? (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022031017207755025</guid>
+            <pubDate>Thu, 10 Mar 2022 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[메타의 메타버스는 과장됐다? (T Times ─ 비즈니스)]]></title>
@@ -188,8 +196,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022030318047715571</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030318047715571</guid>
             <pubDate>Fri, 04 Mar 2022 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="이 회사 창업자가 스티브 잡스를 화나게 만든 이유" src="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022030318047715571_54655.png" alt="이 회사 창업자가 스티브 잡스를 화나게 만든 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[네이버와 카카오는 무형자산을 어떻게 반영하나? (T Times ─ 비즈니스)]]></title>
@@ -240,12 +248,12 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
-            <title><![CDATA[암호화폐 관심 있다면 무조건 알아야 할 ‘스테이블 코인’ (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022022417427778596</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022022417427778596</guid>
-            <pubDate>Thu, 24 Feb 2022 10:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022417427778596_89387.png" alt="암호화폐 관심 있다면 무조건 알아야 할 ‘스테이블 코인’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
+            <title><![CDATA[왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까? (T Times ─ 컬쳐)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022031017207755025</guid>
+            <pubDate>Thu, 10 Mar 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[나도 강의로 먹고 살 수 있다! 하루 4천만원 가능한 비결 (T Times ─ 컬쳐)]]></title>
@@ -268,8 +276,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022022114057750404</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022022114057750404</guid>
             <pubDate>Tue, 22 Feb 2022 10:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022114057750404_46382.png" alt="가상을 현실로 불러오겠다는 디즈니의 전략" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA['월 10달러, 월 30편 관람' 패착을 무비패스는 어떻게 해결할까? (T Times ─ 컬쳐)]]></title>
@@ -317,14 +325,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022012018407750521</guid>
             <pubDate>Thu, 20 Jan 2022 10:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022012018407750521_69266.png" alt="카이스트 학생이 만들어 25개국이 쓰는 ‘교육업계 카톡’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[NFT 발행하고 연봉은 암호화폐로 달라는 선수들 (T Times ─ 컬쳐)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022011418547741136</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022011418547741136</guid>
-            <pubDate>Wed, 19 Jan 2022 09:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202201/2022011418547741136_54222.png" alt="NFT 발행하고 연봉은 암호화폐로 달라는 선수들" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
