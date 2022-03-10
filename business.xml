@@ -4,9 +4,17 @@
         <title>T Times ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 10:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티몬 CEO 된 피키캐스트 창업자. “아마존, 쿠팡 모델 끝났다”]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022031018297728567</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022031018297728567</guid>
+            <pubDate>Thu, 10 Mar 2022 10:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="티몬 CEO 된 피키캐스트 창업자. “아마존, 쿠팡 모델 끝났다”" src="http://img.ttimes.co.kr/img/202203/2022031018297728567_32094.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031018297728567_32094.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022030718187779402</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022030718187779402</guid>
             <pubDate>Mon, 07 Mar 2022 10:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="유명회사가 줄줄이 땅 사는 ‘더샌드박스’의 비밀" src="http://img.ttimes.co.kr/img/202203/2022030718187779402_56084.jpg/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022030718187779402_56084.jpg/dims/optimize/" length="0" type="image/jpg/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022030718187779402_56084.jpg" alt="유명회사가 줄줄이 땅 사는 ‘더샌드박스’의 비밀" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[이 회사 창업자가 스티브 잡스를 화나게 만든 이유]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022022417057710175</guid>
             <pubDate>Fri, 25 Feb 2022 10:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022417057710175_41810.png" alt="청소, 수리, 마사지, 미용 등 출장모델을 혁신한 비결" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[남세동 대표가 자기주도적 직원 뽑는 4단계 채용비법]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022022516187784424</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022022516187784424</guid>
-            <pubDate>Fri, 25 Feb 2022 10:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022516187784424_47896.png" alt="남세동 대표가 자기주도적 직원 뽑는 4단계 채용비법" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
