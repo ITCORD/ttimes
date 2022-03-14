@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 10:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[애플 때문에 몰락한 회사가 애플에 맞서는 방법 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022031417397741570</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031417397741570</guid>
-            <pubDate>Mon, 14 Mar 2022 09:18:37 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2022 09:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="애플 때문에 몰락한 회사가 애플에 맞서는 방법" src="http://img.ttimes.co.kr/img/202203/2022031417397741570_84110.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022031417397741570_84110.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
