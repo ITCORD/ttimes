@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 10:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 11:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[블록체인이 해킹이 안 되는 두 가지 이유 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022031618237796570</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031618237796570</guid>
-            <pubDate>Wed, 16 Mar 2022 10:22:35 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2022 10:22:19 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="블록체인이 해킹이 안 되는 두 가지 이유" src="http://img.ttimes.co.kr/img/202203/2022031618237796570_69102.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022031618237796570_69102.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
