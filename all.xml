@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:55:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:59:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[“웹3 시대엔 아바타가 핵심이다" (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022031718267799265</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031718267799265</guid>
-            <pubDate>Fri, 18 Mar 2022 09:55:17 GMT</pubDate>
+            <pubDate>Fri, 18 Mar 2022 09:55:05 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="“웹3 시대엔 아바타가 핵심이다&quot;" src="http://img.ttimes.co.kr/img/202203/2022031718267799265_29333.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022031718267799265_29333.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
