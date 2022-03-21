@@ -4,9 +4,17 @@
         <title>T Times ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시리즈 쪼개 올리고 광고도 검토한다는 넷플릭스]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022032117507721962</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022032117507721962</guid>
+            <pubDate>Mon, 21 Mar 2022 09:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="시리즈 쪼개 올리고 광고도 검토한다는 넷플릭스" src="http://img.ttimes.co.kr/img/202203/2022032117507721962_48437.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022032117507721962_48437.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[아크가 2월에 가장 많이 샀고 앞으로도 계속 살 거라는 ‘로쿠’]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022031518207743977</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022031017207755025</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031017207755025</guid>
             <pubDate>Thu, 10 Mar 2022 09:18:58 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022031017207755025_60671.png" alt="왜 애플의 트위터와 페이스북엔 단 1건의 게시물도 없을까?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[나도 강의로 먹고 살 수 있다! 하루 4천만원 가능한 비결]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022021817447724203</guid>
             <pubDate>Fri, 18 Feb 2022 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021817447724203_88960.png" alt="리투아니아 유니콘은 어떻게 이커머스 판을 뒤집었나" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[네이버의 B2B2C, 카카오의 B2C2C 메타버스]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022021817317759906</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022021817317759906</guid>
-            <pubDate>Fri, 18 Feb 2022 09:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021817317759906_62662.png" alt="네이버의 B2B2C, 카카오의 B2C2C 메타버스" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
