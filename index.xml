@@ -4,9 +4,17 @@
         <title>T Times</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 09:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 10:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[변기 위에서 샌드위치 만드는 게 안전할 수 있다]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022032314397751086</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022032314397751086</guid>
+            <pubDate>Wed, 23 Mar 2022 10:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="변기 위에서 샌드위치 만드는 게 안전할 수 있다" src="http://img.ttimes.co.kr/img/202203/2022032314397751086_72716.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022032314397751086_72716.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[국내 AI 스타트업들, AI로 이것까지 한다!]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022032216587730372</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022031718267799265</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031718267799265</guid>
             <pubDate>Fri, 18 Mar 2022 09:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="“웹3 시대엔 아바타가 핵심이다&quot;" src="http://img.ttimes.co.kr/img/202203/2022031718267799265_29333.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031718267799265_29333.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022031718267799265_29333.png" alt="“웹3 시대엔 아바타가 핵심이다&quot;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[캔버스에 그린 그림, 사진 찍어 NFT로 올리면 될까?]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022031418037776390</guid>
             <pubDate>Wed, 16 Mar 2022 09:18:26 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022031418037776390_39692.png" alt="음원 수천만 곡 풀어 누구나 라디오DJ 하라는 아마존" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[걸프전땐 CNN, 아랍의봄은 페북, 우크라이나는 틱톡]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022031517537730389</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022031517537730389</guid>
-            <pubDate>Tue, 15 Mar 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022031517537730389_14309.png" alt="걸프전땐 CNN, 아랍의봄은 페북, 우크라이나는 틱톡" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
