@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA['절대 못 따라 한다'는 애플의 반도체 전략 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022032319307740590</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022032319307740590</guid>
-            <pubDate>Thu, 24 Mar 2022 06:25:33 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2022 06:25:16 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="'절대 못 따라 한다'는 애플의 반도체 전략" src="http://img.ttimes.co.kr/img/202203/2022032319307740590_84206.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022032319307740590_84206.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
