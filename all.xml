@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[내 분야에 AI 적용, 어떻게 시작할까? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022032518337787785</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022032518337787785</guid>
-            <pubDate>Fri, 25 Mar 2022 10:22:38 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 10:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="내 분야에 AI 적용, 어떻게 시작할까?" src="http://img.ttimes.co.kr/img/202203/2022032518337787785_69491.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022032518337787785_69491.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
