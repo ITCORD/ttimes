@@ -4,9 +4,17 @@
         <title>T Times ─ 뉴스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 10:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[웹 3.0 시대의 마블이 되려는 BAYC]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022032819017744901</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022032819017744901</guid>
+            <pubDate>Wed, 30 Mar 2022 10:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="웹 3.0 시대의 마블이 되려는 BAYC" src="http://img.ttimes.co.kr/img/202203/2022032819017744901_17002.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202203/2022032819017744901_17002.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[버튼만 누르면 1천종 음료 만들어주는 프린터]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022032817527777421</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022031518207743977</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022031518207743977</guid>
             <pubDate>Thu, 17 Mar 2022 10:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="아크가 2월에 가장 많이 샀고 앞으로도 계속 살 거라는 ‘로쿠’" src="http://img.ttimes.co.kr/img/202203/2022031518207743977_80438.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202203/2022031518207743977_80438.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022031518207743977_80438.png" alt="아크가 2월에 가장 많이 샀고 앞으로도 계속 살 거라는 ‘로쿠’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[아마존북스 등 68개 매장 폐쇄, 하지만 본게임은 지금부터]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022022317487724443</guid>
             <pubDate>Wed, 23 Feb 2022 10:20:17 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022317487724443_34334.png" alt="플레이보이가 NFT로 만들려는 커뮤니티는?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[손정의 회장과 ARM만 아쉽게 된 이유]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022022117167730104</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022022117167730104</guid>
-            <pubDate>Mon, 21 Feb 2022 09:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022022117167730104_57243.jpg" alt="손정의 회장과 ARM만 아쉽게 된 이유" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
