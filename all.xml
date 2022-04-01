@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 03:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[물 대신 광고로 먹고 사는 물 회사 (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022033117217785073</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022033117217785073</guid>
-            <pubDate>Fri, 01 Apr 2022 03:17:10 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="물 대신 광고로 먹고 사는 물 회사" src="http://img.ttimes.co.kr/img/202203/2022033117217785073_39334.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022033117217785073_39334.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[물 대신 광고로 먹고 사는 물 회사 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022033117217785073</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022033117217785073</guid>
-            <pubDate>Fri, 01 Apr 2022 03:17:16 GMT</pubDate>
+            <pubDate>Fri, 01 Apr 2022 03:17:04 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="물 대신 광고로 먹고 사는 물 회사" src="http://img.ttimes.co.kr/img/202203/2022033117217785073_39334.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202203/2022033117217785073_39334.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
