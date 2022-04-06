@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[유튜브가 했던 가장 큰 실수 (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022040511197770745</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040511197770745</guid>
-            <pubDate>Wed, 06 Apr 2022 10:21:57 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 10:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="유튜브가 했던 가장 큰 실수" src="http://img.ttimes.co.kr/img/202204/2022040511197770745_53754.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022040511197770745_53754.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[유튜브가 했던 가장 큰 실수 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022040511197770745</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040511197770745</guid>
-            <pubDate>Wed, 06 Apr 2022 10:22:04 GMT</pubDate>
+            <pubDate>Wed, 06 Apr 2022 10:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="유튜브가 했던 가장 큰 실수" src="http://img.ttimes.co.kr/img/202204/2022040511197770745_53754.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022040511197770745_53754.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
