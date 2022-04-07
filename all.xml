@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[금융회사와 직접 경쟁에 나선 애플 (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022040517327718024</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022040517327718024</guid>
+            <pubDate>Thu, 07 Apr 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="금융회사와 직접 경쟁에 나선 애플" src="http://img.ttimes.co.kr/img/202204/2022040517327718024_11364.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040517327718024_11364.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[유튜브가 했던 가장 큰 실수 (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022040511197770745</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022040518357733628</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040518357733628</guid>
             <pubDate>Tue, 05 Apr 2022 10:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="NFT로 음악시장 뒤집기 위해 총대 멨다는 래퍼" src="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png" alt="NFT로 음악시장 뒤집기 위해 총대 멨다는 래퍼" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[성공한 사람들이 가지고 있다는 능력 ’RQ’ (T Times)]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022032917437751147</guid>
             <pubDate>Tue, 29 Mar 2022 09:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022032917437751147_18621.png" alt="신약, 신제품 개발 실패하면 투자자산은 어떻게 처리되나?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[업종불문 모든 회사가 게임을 영접하기 시작했다. (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022032819037718487</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022032819037718487</guid>
-            <pubDate>Mon, 28 Mar 2022 10:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022032819037718487_49420.png" alt="업종불문 모든 회사가 게임을 영접하기 시작했다." src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[금융회사와 직접 경쟁에 나선 애플 (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022040517327718024</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022040517327718024</guid>
+            <pubDate>Thu, 07 Apr 2022 09:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="금융회사와 직접 경쟁에 나선 애플" src="http://img.ttimes.co.kr/img/202204/2022040517327718024_11364.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040517327718024_11364.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
             <title><![CDATA[유튜브가 했던 가장 큰 실수 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022040511197770745</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040511197770745</guid>
@@ -188,8 +196,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022040518357733628</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040518357733628</guid>
             <pubDate>Tue, 05 Apr 2022 10:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="NFT로 음악시장 뒤집기 위해 총대 멨다는 래퍼" src="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040518357733628_45272.png" alt="NFT로 음악시장 뒤집기 위해 총대 멨다는 래퍼" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[성공한 사람들이 가지고 있다는 능력 ’RQ’ (T Times ─ 비즈니스)]]></title>
@@ -237,14 +245,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022032917437751147</guid>
             <pubDate>Tue, 29 Mar 2022 09:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022032917437751147_18621.png" alt="신약, 신제품 개발 실패하면 투자자산은 어떻게 처리되나?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[업종불문 모든 회사가 게임을 영접하기 시작했다. (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022032819037718487</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022032819037718487</guid>
-            <pubDate>Mon, 28 Mar 2022 10:22:33 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022032819037718487_49420.png" alt="업종불문 모든 회사가 게임을 영접하기 시작했다." src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
