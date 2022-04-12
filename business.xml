@@ -4,9 +4,17 @@
         <title>T Times ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022041216177718768</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022041216177718768</guid>
+            <pubDate>Tue, 12 Apr 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’" src="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[로봇과 디지털 트윈으로 보여준 인공지능의 새로운 미래]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041118527760821</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022040817217717117</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040817217717117</guid>
             <pubDate>Fri, 08 Apr 2022 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="커뮤니티를 아는 BAYC가 크립토펑크를 먹었다" src="http://img.ttimes.co.kr/img/202204/2022040817217717117_27174.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040817217717117_27174.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040817217717117_27174.png" alt="커뮤니티를 아는 BAYC가 크립토펑크를 먹었다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[금융회사와 직접 경쟁에 나선 애플]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022040117017753759</guid>
             <pubDate>Fri, 01 Apr 2022 09:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040117017753759_16379.png" alt="이말년, 주호민 작가도 놀랐다는 ‘채색 AI’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[물 대신 광고로 먹고 사는 물 회사]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022033117217785073</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022033117217785073</guid>
-            <pubDate>Fri, 01 Apr 2022 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202203/2022033117217785073_39334.png" alt="물 대신 광고로 먹고 사는 물 회사" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
