@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,8 +20,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022041216177718768</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041216177718768</guid>
             <pubDate>Tue, 12 Apr 2022 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’" src="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" alt="블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’" src="http://img.ttimes.co.kr/img/202204/2022041216177718768_80668.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041216177718768_80668.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[로봇과 디지털 트윈으로 보여준 인공지능의 새로운 미래 (T Times)]]></title>
@@ -180,8 +180,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022041216177718768</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041216177718768</guid>
             <pubDate>Tue, 12 Apr 2022 09:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’" src="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041216177718768_39852.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" alt="블리자드, 넥슨 등 30년 개발자가 말하는 ‘개발자의 삶’" src="http://img.ttimes.co.kr/img/202204/2022041216177718768_80668.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041216177718768_80668.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
         <item>
             <title><![CDATA[로봇과 디지털 트윈으로 보여준 인공지능의 새로운 미래 (T Times ─ 비즈니스)]]></title>
