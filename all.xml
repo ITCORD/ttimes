@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 10:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 11:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’ (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041317567762347</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041317567762347</guid>
-            <pubDate>Wed, 13 Apr 2022 10:21:02 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2022 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’" src="http://img.ttimes.co.kr/img/202204/2022041317567762347_52171.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022041317567762347_52171.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
