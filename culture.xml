@@ -4,9 +4,17 @@
         <title>T Times ─ 컬쳐</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 09:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 10:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 한번 알림 오면 2분만에 올려야 한다]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022041818257798022</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022041818257798022</guid>
+            <pubDate>Mon, 18 Apr 2022 10:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="하루 한번 알림 오면 2분만에 올려야 한다" src="http://img.ttimes.co.kr/img/202204/2022041818257798022_43091.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041818257798022_43091.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[코로나 끝나가자 비즈니스 모델 확 바꾼 펠로톤]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041118277747040</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022040518257768482</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022040518257768482</guid>
             <pubDate>Tue, 05 Apr 2022 10:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="성공한 사람들이 가지고 있다는 능력 ’RQ’" src="http://img.ttimes.co.kr/img/202204/2022040518257768482_63029.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022040518257768482_63029.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040518257768482_63029.png" alt="성공한 사람들이 가지고 있다는 능력 ’RQ’" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[변기 위에서 샌드위치 만드는 게 안전할 수 있다]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022021517337776583</guid>
             <pubDate>Thu, 17 Feb 2022 10:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022021517337776583_68994.png" alt="'월 10달러, 월 30편 관람' 패착을 무비패스는 어떻게 해결할까?" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[기자까지 뽑아 '포털 사이트' 만든 넷플릭스]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022020812087738913</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022020812087738913</guid>
-            <pubDate>Wed, 09 Feb 2022 06:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202202/2022020812087738913_56674.png" alt="기자까지 뽑아 '포털 사이트' 만든 넷플릭스" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
