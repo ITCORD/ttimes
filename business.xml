@@ -4,9 +4,17 @@
         <title>T Times ─ 비즈니스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왜 개인사업자들이 엣시에서 쇼피파이로 떠날까?]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022041818077746633</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022041818077746633</guid>
+            <pubDate>Tue, 19 Apr 2022 10:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="왜 개인사업자들이 엣시에서 쇼피파이로 떠날까?" src="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[하루 한번 알림 오면 2분만에 올려야 한다]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041818257798022</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022041518127759456</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041518127759456</guid>
             <pubDate>Fri, 15 Apr 2022 10:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="박종천의 한컴, 블리자드, 넥슨, 삼성전자, 몰로코 이직의 노하우" src="http://img.ttimes.co.kr/img/202204/2022041518127759456_84500.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022041518127759456_84500.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022041518127759456_84500.png" alt="박종천의 한컴, 블리자드, 넥슨, 삼성전자, 몰로코 이직의 노하우" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[30년 개발자의 ‘개발자로 성공하기 위한 5가지 노하우’]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022040817217717117</guid>
             <pubDate>Fri, 08 Apr 2022 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040817217717117_27174.png" alt="커뮤니티를 아는 BAYC가 크립토펑크를 먹었다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[금융회사와 직접 경쟁에 나선 애플]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022040517327718024</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022040517327718024</guid>
-            <pubDate>Thu, 07 Apr 2022 09:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022040517327718024_11364.png" alt="금융회사와 직접 경쟁에 나선 애플" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
     </channel>
