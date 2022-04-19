@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA[왜 개인사업자들이 엣시에서 쇼피파이로 떠날까? (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041818077746633</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041818077746633</guid>
-            <pubDate>Tue, 19 Apr 2022 10:22:51 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="왜 개인사업자들이 엣시에서 쇼피파이로 떠날까?" src="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[왜 개인사업자들이 엣시에서 쇼피파이로 떠날까? (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022041818077746633</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022041818077746633</guid>
-            <pubDate>Tue, 19 Apr 2022 10:22:59 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 10:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="왜 개인사업자들이 엣시에서 쇼피파이로 떠날까?" src="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022041818077746633_54804.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
