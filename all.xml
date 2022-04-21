@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 09:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 10:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -91,7 +91,7 @@
             <title><![CDATA['그건 할 수 없어' '해도 안 될 거야'를 없애주는 마법의 단어 하나 (T Times ─ 뉴스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042117147714442</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042117147714442</guid>
-            <pubDate>Thu, 21 Apr 2022 09:19:36 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="'그건 할 수 없어' '해도 안 될 거야'를 없애주는 마법의 단어 하나" src="http://img.ttimes.co.kr/img/202204/2022042117147714442_58715.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022042117147714442_58715.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -171,7 +171,7 @@
             <title><![CDATA[지마켓 공동창업자의 김범수, 김범석, 김봉진 해부 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042117327719542</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042117327719542</guid>
-            <pubDate>Thu, 21 Apr 2022 09:19:43 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="지마켓 공동창업자의 김범수, 김범석, 김봉진 해부" src="http://img.ttimes.co.kr/img/202204/2022042117327719542_64448.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022042117327719542_64448.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
@@ -179,7 +179,7 @@
             <title><![CDATA['그건 할 수 없어' '해도 안 될 거야'를 없애주는 마법의 단어 하나 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042117147714442</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042117147714442</guid>
-            <pubDate>Thu, 21 Apr 2022 09:19:43 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2022 09:19:28 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="'그건 할 수 없어' '해도 안 될 거야'를 없애주는 마법의 단어 하나" src="http://img.ttimes.co.kr/img/202204/2022042117147714442_58715.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022042117147714442_58715.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
