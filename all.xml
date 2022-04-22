@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -171,7 +171,7 @@
             <title><![CDATA[30년 개발자가 6번 이직하며 배운 인생 노하우 (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042213057748242</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042213057748242</guid>
-            <pubDate>Fri, 22 Apr 2022 09:20:19 GMT</pubDate>
+            <pubDate>Fri, 22 Apr 2022 09:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" alt="30년 개발자가 6번 이직하며 배운 인생 노하우" src="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" style="display: block;">]]></content:encoded>
             <enclosure url="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
         </item>
