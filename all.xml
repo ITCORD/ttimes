@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 09:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컬리 김슬아, 토스 이승건 대표가 성공할 수밖에 없는 이유 (T Times)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022042717407711442</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022042717407711442</guid>
+            <pubDate>Wed, 27 Apr 2022 09:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="컬리 김슬아, 토스 이승건 대표가 성공할 수밖에 없는 이유" src="http://img.ttimes.co.kr/img/202204/2022042717407711442_62061.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022042717407711442_62061.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
         <item>
             <title><![CDATA[신현성 티몬 의장이 ‘분노’에서 시작한 '테라' (T Times)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042615077753213</link>
@@ -28,8 +36,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022042213057748242</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042213057748242</guid>
             <pubDate>Fri, 22 Apr 2022 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="30년 개발자가 6번 이직하며 배운 인생 노하우" src="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png" alt="30년 개발자가 6번 이직하며 배운 인생 노하우" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[지마켓 공동창업자의 김범수, 김범석, 김봉진 해부 (T Times)]]></title>
@@ -77,14 +85,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022041818257798022</guid>
             <pubDate>Mon, 18 Apr 2022 10:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022041818257798022_43091.png" alt="하루 한번 알림 오면 2분만에 올려야 한다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 끝나가자 비즈니스 모델 확 바꾼 펠로톤 (T Times)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022041118277747040</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022041118277747040</guid>
-            <pubDate>Fri, 15 Apr 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022041118277747040_51735.png" alt="코로나 끝나가자 비즈니스 모델 확 바꾼 펠로톤" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
+            <title><![CDATA[컬리 김슬아, 토스 이승건 대표가 성공할 수밖에 없는 이유 (T Times ─ 비즈니스)]]></title>
+            <link>http://www.ttimes.co.kr/view.html?no=2022042717407711442</link>
+            <guid>http://www.ttimes.co.kr/view.html?no=2022042717407711442</guid>
+            <pubDate>Wed, 27 Apr 2022 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<img class="lazyload" alt="컬리 김슬아, 토스 이승건 대표가 성공할 수밖에 없는 이유" src="http://img.ttimes.co.kr/img/202204/2022042717407711442_62061.png/dims/optimize/" style="display: block;">]]></content:encoded>
+            <enclosure url="http://img.ttimes.co.kr/img/202204/2022042717407711442_62061.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+        </item>
+        <item>
             <title><![CDATA[신현성 티몬 의장이 ‘분노’에서 시작한 '테라' (T Times ─ 비즈니스)]]></title>
             <link>http://www.ttimes.co.kr/view.html?no=2022042615077753213</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042615077753213</guid>
@@ -188,8 +196,8 @@
             <link>http://www.ttimes.co.kr/view.html?no=2022042213057748242</link>
             <guid>http://www.ttimes.co.kr/view.html?no=2022042213057748242</guid>
             <pubDate>Fri, 22 Apr 2022 09:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" alt="30년 개발자가 6번 이직하며 배운 인생 노하우" src="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" style="display: block;">]]></content:encoded>
-            <enclosure url="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png/dims/optimize/" length="0" type="image/png/dims/optimize/"/>
+            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022042213057748242_35723.png" alt="30년 개발자가 6번 이직하며 배운 인생 노하우" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
+            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
             <title><![CDATA[지마켓 공동창업자의 김범수, 김범석, 김봉진 해부 (T Times ─ 비즈니스)]]></title>
@@ -237,14 +245,6 @@
             <guid>http://www.ttimes.co.kr/view.html?no=2022041818257798022</guid>
             <pubDate>Mon, 18 Apr 2022 10:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022041818257798022_43091.png" alt="하루 한번 알림 오면 2분만에 올려야 한다" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
-            <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 끝나가자 비즈니스 모델 확 바꾼 펠로톤 (T Times ─ 비즈니스)]]></title>
-            <link>http://www.ttimes.co.kr/view.html?no=2022041118277747040</link>
-            <guid>http://www.ttimes.co.kr/view.html?no=2022041118277747040</guid>
-            <pubDate>Fri, 15 Apr 2022 10:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[<img class="lazyload" data-src="http://img.ttimes.co.kr/img/202204/2022041118277747040_51735.png" alt="코로나 끝나가자 비즈니스 모델 확 바꾼 펠로톤" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">]]></content:encoded>
             <enclosure url="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" length="0" type="image/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="/>
         </item>
         <item>
